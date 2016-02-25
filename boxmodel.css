@@ -3,6 +3,7 @@ p {
 /*Content - Width and Height*/
 
 width: 50%;
+height: 50%;
 
 /*Border*/
 
@@ -14,9 +15,12 @@ padding: 10px 10px 10px 10px;
 
 /*Margin*/
 
-margin: 20px 40px 500px 100px;
+margin: 20px 20px 20px 100px;
+
+
 
 }
+
 
 
 
