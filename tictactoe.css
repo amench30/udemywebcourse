@@ -1,0 +1,27 @@
+body > * {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+table#tictac td {
+    width: 4.0em;
+    height: 4.0em;
+    text-align: center;
+    vertical-align: middle;
+    font: bold 36px sans-serif;
+}
+
+td#cell0, td#cell1, td#cell2, td#cell3, td#cell4, td#cell5 {
+    border-bottom: 3px solid;
+}
+
+td#cell0, td#cell1, td#cell3, td#cell4, td#cell6, td#cell7 {
+    border-right: 3px solid;
+}
+
+h1 {
+	font-size: 40px;
+}
